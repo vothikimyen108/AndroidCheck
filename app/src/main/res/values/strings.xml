@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1851050194_VoThiKimYen_buoi5</string>
+    <string name="err_name">nhap dung ten</string>
+    <string name="err_phone">nhap dung sdt</string>
+    <string name="err_email">nhap dung email</string>
+    <string name="err_password">nhap sai pass</string>
+</resources>
